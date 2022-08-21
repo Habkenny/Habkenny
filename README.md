@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Habkenny
-- 👀 I’m interested in Software development and data science and analysis
+- 👀 I’m interested in Software development, data science and analysis
 - 🌱 I’m currently learning about Software development and data science and analysis
 - 💞️ I’m looking to collaborate on Software development and data science and analysis
 - 📫 How to reach me habkenny2@gmail.com
